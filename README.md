@@ -1,3 +1,4 @@
 ## Java - Curso Udemy
 
-### Exercicios utilizando linguagem Java 
+Repositório criado para armazenar os exercicios utilizando linguagem __Java__ 
+do curso na __Udemy__ com professor __Nelio Alves__
