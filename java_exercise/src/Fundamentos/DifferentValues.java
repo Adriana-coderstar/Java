@@ -1,6 +1,7 @@
+package Fundamentos;
 import java.util.Scanner;
 
-public class different_values {
+public class DifferentValues {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 

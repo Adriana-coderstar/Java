@@ -1,6 +1,7 @@
+package Fundamentos;
 import java.util.Scanner;
 
-public class exercise_02 {
+public class ExerciseSum {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 

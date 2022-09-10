@@ -1,7 +1,8 @@
+package Fundamentos;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class circle_radius {
+public class CircleRadius {
   public static void main(String[] args) {
     Locale.setDefault(Locale.US);
     Scanner sc = new Scanner(System.in);

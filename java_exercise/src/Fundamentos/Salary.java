@@ -1,7 +1,8 @@
+package Fundamentos;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class salary {
+public class Salary {
   public static void main(String[] arg) {
 
     Locale.setDefault(Locale.US);
