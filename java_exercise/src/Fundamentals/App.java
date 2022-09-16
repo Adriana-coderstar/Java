@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentals;
 import java.util.Locale;
 
 public class App {
